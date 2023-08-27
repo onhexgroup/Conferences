@@ -2,10 +2,6 @@ https://www.blackhat.com/us-23/briefings/schedule/index.html#video-based-cryptan
 
 https://www.blackhat.com/us-23/briefings/schedule/index.html#apple-pac-four-years-later-reverse-engineering-the-customized-pointer-authentication-hardware-implementation-on-apple-m-32824
 
-https://www.blackhat.com/us-23/briefings/schedule/index.html#fast-ever-evolving-defenders-the-resilience-revolution-32751
-
-https://www.blackhat.com/us-23/briefings/schedule/index.html#bingbang-hacking-bingcom-and-much-more-with-azure-active-directory-33206
-
 https://www.blackhat.com/us-23/briefings/schedule/index.html#risks-of-ai-risk-policy-five-lessons-32619
 
 https://www.blackhat.com/us-23/briefings/schedule/index.html#sure-let-business-users-build-their-own-what-could-go-wrong-33403
@@ -20,15 +16,11 @@ https://www.blackhat.com/us-23/briefings/schedule/index.html#dismantling-ddos---
 
 https://www.blackhat.com/us-23/briefings/schedule/index.html#nothing-but-net-leveraging-macoss-networking-frameworks-to-heuristically-detect-malware-32583
 
-https://www.blackhat.com/us-23/briefings/schedule/index.html#shuffle-up-and-deal-analyzing-the-security-of-automated-card-shufflers-31741
-
 https://www.blackhat.com/us-23/briefings/schedule/index.html#keynote-phoenix-soaring-what-we-can-learn-from-ukraines-cyber-defenders-about-building-a-more-resilient-future-34912
 
 https://www.blackhat.com/us-23/briefings/schedule/index.html#keynote-acting-national-cyber-director-kemba-walden-discusses-the-national-cybersecurity-strategy-and-workforce-efforts-34913
 
 https://www.blackhat.com/us-23/briefings/schedule/index.html#entrepreneurs-dilemma-managing-growth-and-dedication-to-product-quality-35129
-
-https://www.blackhat.com/us-23/briefings/schedule/index.html#making-and-breaking-nsas-codebreaker-challenge-32912
 
 https://www.blackhat.com/us-23/briefings/schedule/index.html#apples-predicament-nspredicate-exploits-on-ios-and-macos-32451
 
@@ -60,9 +52,6 @@ https://www.blackhat.com/us-23/briefings/schedule/index.html#kill-latest-mpu-bas
 
 https://www.blackhat.com/us-23/briefings/schedule/index.html#poisoning-web-scale-training-datasets-is-practical-32112
 
-https://www.blackhat.com/us-23/briefings/schedule/index.html#the-hat-trick-exploit-chrome-twice-from-runtime-to-jit-31557
-
 https://www.blackhat.com/us-23/briefings/schedule/index.html#kids-in-the-ad-fraud-crosshair-why-international-threat-actors-are-targeting-children-to-steal-money-from-banks-and-major-corporations-33370
 
 https://www.blackhat.com/us-23/briefings/schedule/index.html#the-th-annual-black-hat-usa-network-operations-center-noc-report-34408
-
