@@ -7,3 +7,5 @@ Conference slides
 - Offensivecon 2023
 
 - Blackhat USA 2023
+
+- Recon 2023 
