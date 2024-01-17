@@ -1,7 +1,5 @@
 https://www.blackhat.com/us-23/briefings/schedule/index.html#video-based-cryptanalysis-recovering-cryptographic-keys-from-non-compromised-devices-using-video-footage-of-a-devices-power-led-32093
 
-https://www.blackhat.com/us-23/briefings/schedule/index.html#apple-pac-four-years-later-reverse-engineering-the-customized-pointer-authentication-hardware-implementation-on-apple-m-32824
-
 https://www.blackhat.com/us-23/briefings/schedule/index.html#risks-of-ai-risk-policy-five-lessons-32619
 
 https://www.blackhat.com/us-23/briefings/schedule/index.html#sure-let-business-users-build-their-own-what-could-go-wrong-33403
@@ -44,11 +42,7 @@ https://www.blackhat.com/us-23/briefings/schedule/index.html#npm-and-sigstore-pr
 
 https://www.blackhat.com/us-23/briefings/schedule/index.html#synthetic-trust-exploiting-biases-at-scale-32827
 
-https://www.blackhat.com/us-23/briefings/schedule/index.html#tsshock-breaking-mpc-wallets-and-digital-custodians-for-billion-profit-33343
-
 https://www.blackhat.com/us-23/briefings/schedule/index.html#a-qa-with-azs-zane-lackey-unlocking-the-secrets-of-cybersecurity-entrepreneurship-34582
-
-https://www.blackhat.com/us-23/briefings/schedule/index.html#kill-latest-mpu-based-protections-in-just-one-shot-targeting-all-commodity-rtoses-32733
 
 https://www.blackhat.com/us-23/briefings/schedule/index.html#poisoning-web-scale-training-datasets-is-practical-32112
 
