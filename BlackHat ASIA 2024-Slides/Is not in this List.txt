@@ -1,0 +1,70 @@
+David Koh-Keynote - Securing Our Cyberspace Together
+https://www.blackhat.com/asia-24/briefings/schedule/index.html#keynote---securing-our-cyberspace-together-38921
+
+
+Lewei Qu-Attacking Debug Modules In The Android Ecosystem
+https://www.blackhat.com/asia-24/briefings/schedule/index.html#attacking-debug-modules-in-the-android-ecosystem-36451
+
+
+Nitesh Surana & David Fiser-Breaking Managed Identity Barriers In Azure Services
+https://www.blackhat.com/asia-24/briefings/schedule/index.html#breaking-managed-identity-barriers-in-azure-services-37998
+
+
+Luigino Camastra & Igor Morgenstern & Jan Vojtesek-From BYOVD to a 0-day: Unveiling Advanced Exploits in Cyber Recruiting Scams
+https://www.blackhat.com/asia-24/briefings/schedule/index.html#from-byovd-to-a--day-unveiling-advanced-exploits-in-cyber-recruiting-scams-37786
+
+
+Arun Kanuparthi & Hareesh Khattri & Jason Fung & Jeyavijayan JV Rajendran & Ahmad-Reza Sadeghi-The Hack@DAC Story: Learnings from Organizing the World's Largest Hardware Hacking Competition 
+https://www.blackhat.com/asia-24/briefings/schedule/index.html#the-hackdac-story-learnings-from-organizing-the-worlds-largest-hardware-hacking-competition-37994
+
+
+Daniel Jary-Immoral Fiber: Unlocking & Discovering New Offensive Capabilities of Fibers
+https://www.blackhat.com/asia-24/briefings/schedule/index.html#immoral-fiber-unlocking--discovering-new-offensive-capabilities-of-fibers-37947
+
+
+Ty Miller & Shanna Daly & Mika Devonshire & Marina Krotofil & Anthony Cheuk Tung Lai & Neil (Grifter) Wyler & Fyodor Yarochkin & Vitaly Kamluk-Emerging Frontiers: Insights from the Black Hat Asia Review Board
+https://www.blackhat.com/asia-24/briefings/schedule/index.html#emerging-frontiers-insights-from-the-black-hat-asia-review-board-38925
+
+
+Jeff Moss & Ruimin He-Fireside Chat: Jeff Moss and Ruimin He
+https://www.blackhat.com/asia-24/briefings/schedule/index.html#fireside-chat-jeff-moss-and-ruimin-he-39343
+
+
+Le Wu & Qi Zhang-Game of Cross Cache: Let's Win It in a More Effective Way!
+https://www.blackhat.com/asia-24/briefings/schedule/index.html#game-of-cross-cache-lets-win-it-in-a-more-effective-way-37742
+
+
+Fotis Chantzis & Paul McMillan-LLMs at the Core: From Attention to Action in Scaling Security Teams
+https://www.blackhat.com/asia-24/briefings/schedule/index.html#llms-at-the-core-from-attention-to-action-in-scaling-security-teams-37909
+
+
+Shmuel Cohen-The Dark Side of EDR: Repurpose EDR as an Offensive Tool
+https://www.blackhat.com/asia-24/briefings/schedule/index.html#the-dark-side-of-edr-repurpose-edr-as-an-offensive-tool-37846
+
+
+Yuhao Jiang & Xinlei Ying-URB Excalibur: The New VMware All-Platform VM Escapes
+https://www.blackhat.com/asia-24/briefings/schedule/index.html#urb-excalibur-the-new-vmware-all-platform-vm-escapes-37854
+
+
+Gertjan Franken & Tom Van Goethem-Back to the Roots: Finding the Origin of CSP Security Bugs
+https://www.blackhat.com/asia-24/briefings/schedule/index.html#back-to-the-roots-finding-the-origin-of-csp-security-bugs-36829
+
+
+Nimish Mishra & Anirban Chakraborty & Debdeep Mukhopadhyay-Faults in Our Bus: Novel Bus Fault Attack to Break Trusted Execution Environments in Embedded Systems
+https://www.blackhat.com/asia-24/briefings/schedule/index.html#faults-in-our-bus-novel-bus-fault-attack-to-break-trusted-execution-environments-in-embedded-systems-38013
+
+
+Eyal Semel & Ron Semel & Alon Dankner & Sara Bitan & Eli Biham-Debug7: Leveraging a Firmware Modification Attack for Remote Debugging of Siemens S7 PLCs
+https://www.blackhat.com/asia-24/briefings/schedule/index.html#debug-leveraging-a-firmware-modification-attack-for-remote-debugging-of-siemens-s-plcs-38190
+
+
+Chao Ma & Han Yan & Tim Xia-LinkDoor: A Hidden Attack Surface in the Android Netlink Kernel Modules
+https://www.blackhat.com/asia-24/briefings/schedule/index.html#linkdoor-a-hidden-attack-surface-in-the-android-netlink-kernel-modules-37619
+
+
+Neil (Grifter) Wyler & Bart Stump-The Black Hat Asia Network Operations Center (NOC) Report
+https://www.blackhat.com/asia-24/briefings/schedule/index.html#the-black-hat-asia-network-operations-center-noc-report-38156
+
+
+Vitaly Kamluk & Anant Shrivastava & Pamela O'Shea & Ty Miller & Jeff Moss-Locknote: Conclusions and Key Takeaways
+https://www.blackhat.com/asia-24/briefings/schedule/index.html#locknote-conclusions-and-key-takeaways-39514
