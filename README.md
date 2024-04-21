@@ -1,6 +1,7 @@
 # Conferences
 Conference slides
 
+- Blackhat Asia 2024
 
 - Blackhat Asia 2023
 
