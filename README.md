@@ -1,7 +1,7 @@
 # Conferences
 Conference presentation slides:
 
-- Blackhat Asia 2024
+- Blackhat Asia 2024 (April 16-19, 2024 Marina Bay Sands / Singapore)
 
 - Blackhat Asia 2023
 
