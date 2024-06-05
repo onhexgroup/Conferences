@@ -1,0 +1,17 @@
+Joffrey Guilbon, Max, Mateusz Fruba and Georgi Geshev : Beyond Android MTE: Navigating OEM's Logic Labyrinths
+Charles Fol: Iconv, Set the Charset to RCE: Exploiting the Glibc To Hack the PHP Engine
+Simon Scannell and Anthony Weems: The Mines of Kakadûm: Blindly Exploiting Load-Balanced Services
+Erik Egsgard: Almost Escaping the Sandbox: Attacking Windows Device Drivers
+David Berard and Vincent Dehors: 0-Click RCE on the Tesla Infotainment Through Cellular Network
+Ian Beer: Blasting Past Webp
+Thomas Roth (stacksmashing): ACE up the Sleeve: Hacking into Apple’s New USB-C Controller
+Magal Baz and Octavian Guzu: Defense Through Offense: Microcontroller Security in Meta’s First Generation of Smart Glasses
+Eugene Rodionov, Zi Fan Tan and Gulshan Singh: How to Fuzz Your Way to Android Universal Root: Attacking Android Binder
+Mateusz Jurczyk: Practical Exploitation of Registry Vulnerabilities in the Windows Kernel
+Maxime Rossi Bellom, Damiano Melotti, Raphael Neveu, Gabrielle Viala: Attacking the Samsung Galaxy A * Boot Chain
+Alexander Kozlov and Sergey Anufrienko: One SMS to Root Them All: Exposing Critical Threats in Millions of Connected Devices
+Lucas GEORGES: Open Sesame: Stack Smashing Your Way into Opening Doors
+Piotr Bazydlo: Half Measures and Full Compromise: Exploiting Microsoft Exchange PowerShell Remoting
+Daniël Trujillo and Johannes Wikner: From Phantom to Inception: Leaking Data Using Branch-Free Predictor Training
+
+
