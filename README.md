@@ -1,6 +1,8 @@
 # Conferences
 Conference presentation slides:
 
+- REcon 2024 Slides (28-30 Jun,2024)
+
 - Offensivecon 2024 (May 10-11,2024 Berlin)
   
 - Blackhat Asia 2024 (April 16-19, 2024 Marina Bay Sands / Singapore)
