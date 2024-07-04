@@ -1,0 +1,105 @@
+Cristina Cifuentes_From Student of Compilation to Mother of Decompilation -- 30 Years Edition
+https://cfp.recon.cx/recon2024/talk/GYG8FH/
+
+
+Oliver Lavery_Breaking Z-Waves: How we use Symbolic Execution to find Critical RF Vulnerabilities
+https://cfp.recon.cx/recon2024/talk/XZPDMD/
+
+
+Erik Egsgard_Tales From The Crypt: Bug Hunting in the Windows CryptoAPI 
+https://cfp.recon.cx/recon2024/talk/SB3QLK/
+
+
+Takahiro Haruyama_The Art of Malware C2 Scanning - How to Reverse and Emulate Protocol Obfuscated by Compiler
+https://cfp.recon.cx/recon2024/talk/GRV7EX/
+
+
+Mateusz Jurczyk_Peeling Back the Windows Registry Layers: A Bug Hunter's Expedition
+https://cfp.recon.cx/recon2024/talk/9KQVEH/
+
+
+Travis Goodspeed_GameBoy ROM Extraction
+https://cfp.recon.cx/recon2024/talk/ENQQMS/
+
+
+Laurie Kirk_Manipulating Malware: Forcing Android Malware to Self-Unpack 
+https://cfp.recon.cx/recon2024/talk/Q7ATBY/
+
+
+Elias Bachaalany_A Tale of Reverse Engineering 1001 GPTs: The Good, the Bad, and the Ugly 
+https://cfp.recon.cx/recon2024/talk/YVEGK9/
+
+
+Bálint Varga-Perke_Control Flow Intergrity on IBM i 
+https://cfp.recon.cx/recon2024/talk/AT399C/
+
+
+Sina Kheirkhah_.NET Exploitation WorkShop 
+https://cfp.recon.cx/recon2024/talk/C3XF3K/
+
+
+netspooky_Binary Golfing UEFI Applications 
+https://cfp.recon.cx/recon2024/talk/RDWPAA/
+
+
+Alan Sguigna_Workshop for JTAG debug of Windows Hyper-V / Secure Kernel with WinDbg and DCI/EXDI
+https://cfp.recon.cx/recon2024/talk/R7GLAW/
+
+
+Lindsay Kaye & Gabi Cirlig_Guerilla Reversing: SMALI steps towards Android reversing 
+https://cfp.recon.cx/recon2024/talk/TSVKMK/
+
+
+Kyle Shockley & Kyle Shockley_Bare Metal Firmware Dev: Forwards and Backwards 
+https://cfp.recon.cx/recon2024/talk/VFAJQE/
+
+
+Silvio & Davide Fontana & Antonio Villani_An unexpected journey into Microsoft Defender's signature World.
+https://cfp.recon.cx/recon2024/talk/TFC3XM/
+
+
+Gijs Rijnders_Cryptography is hard: Breaking the DoNex ransomware
+https://cfp.recon.cx/recon2024/talk/LQ8B7H/
+
+
+Lucas GEORGES_Open Sesame: stack smashing your way into opening doors. 
+https://cfp.recon.cx/recon2024/talk/ZAVJNT/
+
+
+Luke McLaren_Mobile Visualization for Reverse Engineering & Debugging
+https://cfp.recon.cx/recon2024/talk/S8KMRH/
+
+
+Joshua Reynolds_Automating Malware Deobfuscation with Binary Ninja 
+https://cfp.recon.cx/recon2024/talk/DDHBFN/
+
+
+Nils Rollshausen_WatchWitch — The Apple Watch Protocol Stack from Scratch
+https://cfp.recon.cx/recon2024/talk/GDNVJF/
+
+
+Juan Andres Guerrero-Saade_Project 0xA11C: Deoxidizing the Rust Malware Ecosystem
+https://cfp.recon.cx/recon2024/talk/KGAVNR/
+
+
+Nika Korchok Wakulich_GOP Complex: Image parsing bugs, EBC polymorphic engines and the Deus ex machina of UEFI exploit dev
+https://cfp.recon.cx/recon2024/talk/XBSEXN/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
