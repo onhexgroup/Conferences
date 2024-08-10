@@ -1,6 +1,8 @@
 # Conferences
 Conference presentation slides:
 
+- Black Hat USA 2024 slides (3-8 August,2024)
+
 - REcon 2024 Slides (28-30 Jun,2024)
 
 - Offensivecon 2024 (May 10-11,2024 Berlin)
