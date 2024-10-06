@@ -2,15 +2,8 @@ Jen Easterly & Hans de Vries & Felicity Oswald OBE & Christina A. Cassidy_Keynot
 https://www.blackhat.com/us-24/briefings/schedule/index.html#keynote-democracys-biggest-year-the-fight-for-secure-elections-around-the-world-41960
 
 
-Fabian Thomas & Ruiyi Zhang & Lorenz Hetterich & Michael Schwarz_Arbitrary Data Manipulation and Leakage with CPU Zero-Day Bugs on RISC-V
-https://www.blackhat.com/us-24/briefings/schedule/index.html#arbitrary-data-manipulation-and-leakage-with-cpu-zero-day-bugs-on-risc-v-38293
-
-
-
 Nicole Fishbein & Juan Andrés Guerrero-Saade_Project 0xA11C: Deoxidizing the Rust Malware Ecosystem
 https://www.blackhat.com/us-24/briefings/schedule/index.html#project-xac-deoxidizing-the-rust-malware-ecosystem-38637
-
-
 
 
 Natalie Silvanovich_Project Zero: Ten Years of 'Make 0-Day Hard'
@@ -29,64 +22,28 @@ Bill Demirkapi_Predict, Prioritize, Patch: How Microsoft Harnesses LLMs for Secu
 https://www.blackhat.com/us-24/briefings/schedule/index.html#predict-prioritize-patch-how-microsoft-harnesses-llms-for-security-response-40188
 
 
-
-Tiago Henriques_The Fundamentals of Cyber-Insurance
-https://www.blackhat.com/us-24/briefings/schedule/index.html#the-fundamentals-of-cyber-insurance-41888
-
-
-
 Liv Matan_The GCP Jenga Tower: Hacking Millions of Google's Servers With a Single Package (and more)
 https://www.blackhat.com/us-24/briefings/schedule/index.html#the-gcp-jenga-tower-hacking-millions-of-googles-servers-with-a-single-package-and-more-40083
-
-
-Arun Kanuparthi & Hareesh Khattri & Jason Fung & Jeyavijayan JV Rajendran & Ahmad-Reza Sadeghi_The Hack@DAC Story: Learnings from Organizing the World's Largest Hardware Hacking Competition
-https://www.blackhat.com/us-24/briefings/schedule/index.html#the-hackdac-story-learnings-from-organizing-the-worlds-largest-hardware-hacking-competition-40880
 
 
 Qinghe Xie & Fangming Gu & Zong Cao & Qingli Guo_The Overlooked Attack Surface: Diving into Windows Client Components for RCE Vulnerabilities
 https://www.blackhat.com/us-24/briefings/schedule/index.html#the-overlooked-attack-surface-diving-into-windows-client-components-for-rce-vulnerabilities-39844
 
 
-
-Kai Tu & Yilu Dong & Abdullah Al Ishtiaq & Syed Md Mukit Rashid & Weixuan Wang & Tianwei Wu & Syed Rafiul Hussain_Cracking the 5G Fortress: Peering Into 5G's Vulnerability Abyss
-https://www.blackhat.com/us-24/briefings/schedule/index.html#cracking-the-g-fortress-peering-into-gs-vulnerability-abyss-40620
-
-
 Jun Li & Zhongjie Wu & Yuqiao Yang & WenHao Liu & Ruicong Shi & YuQiao Ning & Wu Chao & Harry Guo & Kun Yang & Xiaohang Wang & Kui Ren & Ting Chen_Ops! It is JTAG's Fault: Journey to Unlocking Automotive Grade IC
 https://www.blackhat.com/us-24/briefings/schedule/index.html#ops-it-is-jtags-fault-journey-to-unlocking-automotive-grade-ic-40451
-
-
-Bridget Q. Choi_Strengthen Cyber-security by Leveraging Cyber-Insurance
-https://www.blackhat.com/us-24/briefings/schedule/index.html#strengthen-cyber-security-by-leveraging-cyber-insurance-41889
-
-
-Erik Rye_Surveilling the Masses with Wi-Fi Positioning Systems
-https://www.blackhat.com/us-24/briefings/schedule/index.html#surveilling-the-masses-with-wi-fi-positioning-systems-38430
 
 
 Nathan Hamiel & Amanda Minnich & Nikki Pope & Mikel Rodriguez_AI Safety and You: Perspectives on Evolving Risks and Impacts
 https://www.blackhat.com/us-24/briefings/schedule/index.html#ai-safety-and-you-perspectives-on-evolving-risks-and-impacts-41493
 
 
-Maxime Rossi Bellom & Raphael Neveu & Damiano Melotti & Gabrielle Viala_Attacking Samsung Galaxy A* Boot Chain, and Beyond
-https://www.blackhat.com/us-24/briefings/schedule/index.html#attacking-samsung-galaxy-a-boot-chain-and-beyond-38526
-
-
-Maxime Villard & Yair Netzer & Ben Hania_Compromising Confidential Compute, One Bug at a Time
-https://www.blackhat.com/us-24/briefings/schedule/index.html#compromising-confidential-compute-one-bug-at-a-time-38435
-
-
 Catherine Lyle_Cyber Claims Outlook 2024: Trends, Threats, and Tomorrow's Challenges
 https://www.blackhat.com/us-24/briefings/schedule/index.html#cyber-claims-outlook--trends-threats-and-tomorrows-challenges-41890
 
 
-
 Jess Nall_Skirting the Tornado: Essential Strategies for CISOs to Sidestep Government Fallout in the Wake of Major Cyberattacks
 https://www.blackhat.com/us-24/briefings/schedule/index.html#skirting-the-tornado-essential-strategies-for-cisos-to-sidestep-government-fallout-in-the-wake-of-major-cyberattacks-39055
-
-
-Maël Le Touz & Renée Burton_That Gambling Site? It's Fueled by Chinese Organized Crime
-https://www.blackhat.com/us-24/briefings/schedule/index.html#that-gambling-site-its-fueled-by-chinese-organized-crime-39630
 
 
 Bohan Liu & Zong Cao & Zheng Wang & Yeqi Fu & Cen Zhang_Achilles' Heel of JS Engines: Exploiting Modern Browsers During WASM Execution
@@ -99,10 +56,6 @@ https://www.blackhat.com/us-24/briefings/schedule/#isolation-or-hallucination-ha
 
 Lindsay Nickle & Tiago Henriques & Scott Stransky_Moral Hazards and Ethical Considerations in Cyber-Insurance
 https://www.blackhat.com/us-24/briefings/schedule/#moral-hazards-and-ethical-considerations-in-cyber-insurance-41891
-
-
-Nadav Adir & Alon Dankner & Eli Biham & Sara Bitan & Ron Freudenthal & Or Keret_Nope, S7ill Not Secure: Stealing Private Keys From S7 PLCs
-https://www.blackhat.com/us-24/briefings/schedule/#nope-sill-not-secure-stealing-private-keys-from-s-plcs-40677
 
 
 Moxie Marlinspike & Jeff Moss_Keynote: Fireside Chat with Moxie Marlinspike
@@ -125,22 +78,8 @@ Jason Healey & Nand Mulchandani & Hans de Vries & Lauryn Williams & Amit Elazari
 https://www.blackhat.com/us-24/briefings/schedule/#policy-meetup---national-policy-and-security-impact-of-emerging-technology-and-threats-42337
 
 
-Qinrun Dai & Tiejin Chen & Zicheng Wang & Hua Wei & Yueqi Chen_Stop! Sandboxing Exploitable Functions and Modules Using In-Kernel Machine Learning
-https://www.blackhat.com/us-24/briefings/schedule/#stop-sandboxing-exploitable-functions-and-modules-using-in-kernel-machine-learning-40750
-
-
-Karel Dhondt & Victor Le Pochat_Swipe Left for Identity Theft: An Analysis of User Data Privacy Risks on Location-based Dating Apps
-https://www.blackhat.com/us-24/briefings/schedule/#swipe-left-for-identity-theft-an-analysis-of-user-data-privacy-risks-on-location-based-dating-apps-39007
-
-
 STÖK STÖK & Joona Hoikkala_Flipping Bits: Your Credentials Are Certainly Mine
 https://www.blackhat.com/us-24/briefings/schedule/#flipping-bits-your-credentials-are-certainly-mine-40040
-
-
-
-Sam Beaumont & Larry Trowell_Laser Beams & Light Streams: Letting Hackers Go Pew Pew, Building Affordable Light-Based Hardware Security Tooling
-https://www.blackhat.com/us-24/briefings/schedule/#laser-beams--light-streams-letting-hackers-go-pew-pew-building-affordable-light-based-hardware-security-tooling-39708
-
 
 
 Piotr Ciepiela_Navigating the Complex Challenges of Setting Up Efficient and Robust OT SOC Capabilities
@@ -163,11 +102,6 @@ Bill Demirkapi_Locked Down but Not Out: Fighting the Hidden War in Your Bootload
 https://www.blackhat.com/us-24/briefings/schedule/#locked-down-but-not-out-fighting-the-hidden-war-in-your-bootloader-40056
 
 
-Kaixuan Luo & Xianbo Wang & Adonis Fung & Julien Lecomte & Wing Cheong Lau_One Hack to Rule Them All: Pervasive Account Takeovers in Integration Platforms for Workflow Automation, Virtual Voice Assistant, IoT, & LLM Services
-https://www.blackhat.com/us-24/briefings/schedule/#one-hack-to-rule-them-all-pervasive-account-takeovers-in-integration-platforms-for-workflow-automation-virtual-voice-assistant-iot--llm-services-38994
-
-
-
 Jean-Philippe Aumasson & Mark Carney & Tommaso Gagliardoni & Nathan Hamiel_Quantum Security: Myths, Facts, and Realities
 https://www.blackhat.com/us-24/briefings/schedule/#quantum-security-myths-facts-and-realities-42044
 
@@ -176,25 +110,12 @@ Patrick Wardle_The Hidden Treasure of Crash Reports?
 https://www.blackhat.com/us-24/briefings/schedule/#the-hidden-treasure-of-crash-reports-40349
 
 
-Dhilung Kirat & Jiyong Jang_Uncovering Supply Chain Attack with Code Genome Framework
-https://www.blackhat.com/us-24/briefings/schedule/#uncovering-supply-chain-attack-with-code-genome-framework-39913
-
-
-
 John Dwyer:Becoming Cybersecurity Bilingual: Effective Communication for Hackers
 https://www.blackhat.com/us-24/briefings/schedule/#becoming-cybersecurity-bilingual-effective-communication-for-hackers-42761
 
-
-Juhee Kim & Jinbum Park & Sihyeon Roh & Jaeyoung Chung & Youngjoo Lee & Taesoo Kim & Byoungyoung Lee_Bypassing ARM's Memory Tagging Extension with a Side-Channel Attack
-https://www.blackhat.com/us-24/briefings/schedule/#bypassing-arms-memory-tagging-extension-with-a-side-channel-attack-38669
  
 Narayana Pappu_CANCELLED: Unmasking Privacy Risks in Post-Cookie Adtech Solutions
 https://www.blackhat.com/us-24/briefings/schedule/#cancelled-unmasking-privacy-risks-in-post-cookie-adtech-solutions-39717
-
-
-Niklas Vogel & Donika Mirdita & Haya Schulmann & Michael Waidner_Crashing the Party: Vulnerabilities in RPKI Validation
-https://www.blackhat.com/us-24/briefings/schedule/#crashing-the-party-vulnerabilities-in-rpki-validation-40443
-
 
 
 Hongfei Wang & Dong Wu & Yuan Gu_Threat Hunting with LLM: From Discovering APT SAAIWC to Tracking APTs with AI (PRE-RECORDED)
@@ -206,22 +127,12 @@ Vangelis Stykas_Behind Enemy Lines: Engaging and Disrupting Ransomware Web Panel
 https://www.blackhat.com/us-24/briefings/schedule/#behind-enemy-lines-engaging-and-disrupting-ransomware-web-panels-39679
 
 
-
-Haikuo Xie & Fan Yang & Qinrun Dai_Remote, One-Click, Breaking through Smartphones via a Non Well-Known Remote Attack Surface
-https://www.blackhat.com/us-24/briefings/schedule/#remote-one-click-breaking-through-smartphones-via-a-non-well-known-remote-attack-surface-39721
-
-
 Neil Wyler & Bart Stump_The 10th Annual Black Hat USA Network Operations Center (NOC) Report
 https://www.blackhat.com/us-24/briefings/schedule/#the-th-annual-black-hat-usa-network-operations-center-noc-report-41013
-
-
-Peleus Uhley_Tracing Origins: Navigating Content Authenticity in the Deepfake Era
-https://www.blackhat.com/us-24/briefings/schedule/#tracing-origins-navigating-content-authenticity-in-the-deepfake-era-39929
 
 
 
 Ellen Cram Kowalczyk & Jeff Moss & Nathan Hamiel & Window Snyder & Jos Wetzels_Locknote: Conclusions & Key Takeaways from Black Hat USA 2024
 https://www.blackhat.com/us-24/briefings/schedule/#locknote-conclusions--key-takeaways-from-black-hat-usa--41674
  
-
 
