@@ -1,0 +1,3 @@
+Yongkang Jia & Yiming Tao & Xiao Lei_DMAKiller: Unleashing the Power of DMA to Escape from QEMU/KVM
+Philippe Laulheret_What the hell is Windows's CLIP Service - Reversing and exploiting the obfuscated code at its core
+Wongi Lee & Mingi Cho_Utilizing Cross-CPU Allocation to Exploit Preempt-Disabled Linux Kernel
