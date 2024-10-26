@@ -1,6 +1,8 @@
 # Conferences
 Conference presentation slides:
 
+- Hexacon 2024 Slides (4-5 October 2024)
+
 - Black Hat USA 2024 slides (3-8 August,2024)
 
 - REcon 2024 Slides (28-30 Jun,2024)
