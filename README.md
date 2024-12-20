@@ -1,6 +1,9 @@
 # Conferences
 Conference presentation slides:
 
+
+- Blackhat Europe 2024 (9-12 December 2024)
+
 - Hexacon 2024 Slides (4-5 October 2024)
 
 - Black Hat USA 2024 slides (3-8 August,2024)
