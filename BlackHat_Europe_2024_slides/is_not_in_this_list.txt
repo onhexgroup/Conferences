@@ -1,0 +1,68 @@
+Keynote_Frédérick Douzet
+https://www.blackhat.com/eu-24/briefings/schedule/#keynote-frdrick-douzet-43840
+
+
+Satoru Takekoshi & Manami Mori & Takaaki Fukai & Takahiro Shinagawa_AML Injection Attacks on Confidential VMs
+https://www.blackhat.com/eu-24/briefings/schedule/#aml-injection-attacks-on-confidential-vms-42723
+
+
+Danny Jenkins_Main Stage: Understanding and Reducing Supply Chain and Software Vulnerability Risks
+https://www.blackhat.com/eu-24/briefings/schedule/#main-stage-understanding-and-reducing-supply-chain-and-software-vulnerability-risks-44268
+
+
+Johann Rehberger_SpAIware & More: Advanced Prompt Injection Exploits in LLM Applications
+https://www.blackhat.com/eu-24/briefings/schedule/#spaiware--more-advanced-prompt-injection-exploits-in-llm-applications-42007
+
+
+ZiYang Li & Ji'an Zhou & Ying Zhu_A Novel Attack Surface: Java Authentication and Authorization Service (JAAS)
+https://www.blackhat.com/eu-24/briefings/schedule/#a-novel-attack-surface-java-authentication-and-authorization-service-jaas-42179
+
+Eric Freyssinet_Keynote: Fighting Cybercrime in 2024
+https://www.blackhat.com/eu-24/briefings/schedule/#keynote-fighting-cybercrime-in--44121
+
+
+Jacob Torrey & Marco Slaviero_Defending off the land: Agentless defenses available today
+https://www.blackhat.com/eu-24/briefings/schedule/#defending-off-the-land-agentless-defenses-available-today-42284
+
+
+Benjamin Walden_Reasonable Regs vs Red Tape: How Should Governments Tackle the Cyber Intrusion Market
+https://www.blackhat.com/eu-24/briefings/schedule/#reasonable-regs-vs-red-tape-how-should-governments-tackle-the-cyber-intrusion-market-42652
+
+
+Amit Finkman & Avishag Shapira & Eden Bar Kochva & Asaf Shabtai & Yuval Elovici & Inbar Maimon & Dudu Mimran_CodeCloak: A DRL-Based Method for Mitigating Code Leakage by LLM Code Assistants
+https://www.blackhat.com/eu-24/briefings/schedule/#codecloak-a-drl-based-method-for-mitigating-code-leakage-by-llm-code-assistants-43839
+
+
+Eduardo Barbaro & Roberto Moratore & Ignjat Pejic & Alessandro Giordani & Arlindo Trindade_Infusing AI in Cybersecurity: The Times They Are AI-Changin
+https://www.blackhat.com/eu-24/briefings/schedule/#infusing-ai-in-cybersecurity-the-times-they-are-ai-changin-43164
+
+
+Zong Cao & Qian Zhu & Hongkun Chen & Yang Liu & Xiu Zhang_Is JavaScript Trustworthy in Cloud Computing?
+https://www.blackhat.com/eu-24/briefings/schedule/#is-javascript-trustworthy-in-cloud-computing-42675
+
+
+David Klein_Parse Me, Baby, One More Time: Bypassing HTML Sanitizer via Parsing Differentials
+https://www.blackhat.com/eu-24/briefings/schedule/#parse-me-baby-one-more-time-bypassing-html-sanitizer-via-parsing-differentials-42514
+
+
+R4nger & Fangming Gu & Zhiniang Peng_Enhancing Automatic Vulnerability Discovery for Windows RPC/COM in New Ways
+https://www.blackhat.com/eu-24/briefings/schedule/#enhancing--automatic-vulnerability-discovery-for-windows--rpccom-in-new-ways-42308
+
+
+Neil Wyler & Bart Stump_The Black Hat Europe Network Operations Center (NOC) Report
+https://www.blackhat.com/eu-24/briefings/schedule/#the-black-hat-europe-network-operations-center-noc-report-43579
+
+
+Jeff Moss & Stefano Zanero & James Forshaw & Meadow Ellis & Vandana Verma_Locknote: Conclusions and Key Takeaways from Black Hat Europe 2024
+https://www.blackhat.com/eu-24/briefings/schedule/#locknote-conclusions-and-key-takeaways-from-black-hat-europe--43842
+
+
+
+
+
+
+
+
+
+
+
