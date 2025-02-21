@@ -43,10 +43,6 @@ Luke McLaren_Mobile Visualization for Reverse Engineering & Debugging
 https://cfp.recon.cx/recon2024/talk/S8KMRH/
 
 
-Joshua Reynolds_Automating Malware Deobfuscation with Binary Ninja 
-https://cfp.recon.cx/recon2024/talk/DDHBFN/
-
-
 Nils Rollshausen_WatchWitch — The Apple Watch Protocol Stack from Scratch
 https://cfp.recon.cx/recon2024/talk/GDNVJF/
 
@@ -57,10 +53,6 @@ https://cfp.recon.cx/recon2024/talk/KGAVNR/
 
 Nika Korchok Wakulich_GOP Complex: Image parsing bugs, EBC polymorphic engines and the Deus ex machina of UEFI exploit dev
 https://cfp.recon.cx/recon2024/talk/XBSEXN/
-
-
-
-
 
 
 
