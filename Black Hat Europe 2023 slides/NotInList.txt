@@ -1,7 +1,5 @@
 https://www.blackhat.com/eu-23/briefings/schedule/index.html#new-techniques-for-split-second-dns-rebinding-35619
 
-https://www.blackhat.com/eu-23/briefings/schedule/index.html#my-invisible-adversary-burnout-36073
-
 https://www.blackhat.com/eu-23/briefings/schedule/#a-world-view-of-ip-spoofing-in-l-volumetric-dos-attacks---and-a-call-to-enable-bcp-35659
 
 https://www.blackhat.com/eu-23/briefings/schedule/#the-black-hat-europe-network-operations-center-noc-report-36176
