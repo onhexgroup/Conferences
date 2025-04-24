@@ -7,10 +7,6 @@ https://blackhat.com/asia-25/briefings/schedule/?__cf_chl_tk=R4T9IqSD8VM8V34HxZh
 
 
 
-Peng Zhou_The Oversights Under the Flow: Discovering and Demystifying the Vulnerable Tooling Suites From Azure MLOps
-https://blackhat.com/asia-25/briefings/schedule/?__cf_chl_tk=R4T9IqSD8VM8V34HxZhJEJzougebUuLlpmqiurg4pvw-1743959629-1.0.1.1-ADqsjuxalwYHGb7KcN.QTl5vLXWphfzkN0JacPLQoJE#the-oversights-under-the-flow-discovering-and-demystifying-the-vulnerable-tooling-suites-from-azure-mlops-43347
-
-
 Allyn Stott_Tinker Tailor LLM Spy: Investigate & Respond to Attacks on GenAI Chatbots
 https://blackhat.com/asia-25/briefings/schedule/?__cf_chl_tk=R4T9IqSD8VM8V34HxZhJEJzougebUuLlpmqiurg4pvw-1743959629-1.0.1.1-ADqsjuxalwYHGb7KcN.QTl5vLXWphfzkN0JacPLQoJE#tinker-tailor-llm-spy-investigate--respond-to-attacks-on-genai-chatbots-44556
 
@@ -28,27 +24,9 @@ Bunnie Huang_Keynote: Perspectives on Trust in Hardware Supply Chains
 https://blackhat.com/asia-25/briefings/schedule/?__cf_chl_tk=R4T9IqSD8VM8V34HxZhJEJzougebUuLlpmqiurg4pvw-1743959629-1.0.1.1-ADqsjuxalwYHGb7KcN.QTl5vLXWphfzkN0JacPLQoJE#keynote-perspectives-on-trust-in-hardware-supply-chains-44613
 
 
-Julia Zduńczyk_Behind Closed Doors - Bypassing RFID Readers
-https://blackhat.com/asia-25/briefings/schedule/?__cf_chl_tk=R4T9IqSD8VM8V34HxZhJEJzougebUuLlpmqiurg4pvw-1743959629-1.0.1.1-ADqsjuxalwYHGb7KcN.QTl5vLXWphfzkN0JacPLQoJE#behind-closed-doors---bypassing-rfid-readers-44006
-
-
-Karim Abdellatif_I Have Got to Warn You, It Is a Learning Robot: Using Deep Learning Attribution Methods for Fault Injection Attacks
-https://blackhat.com/asia-25/briefings/schedule/?__cf_chl_tk=R4T9IqSD8VM8V34HxZhJEJzougebUuLlpmqiurg4pvw-1743959629-1.0.1.1-ADqsjuxalwYHGb7KcN.QTl5vLXWphfzkN0JacPLQoJE#i-have-got-to-warn-you-it-is-a-learning-robot-using-deep-learning-attribution-methods-for-fault-injection-attacks-44092
-
-
-Lukas Maar & Jonas Juffinger_KernelSnitch: Leaking Kernel Heap Pointers by Exploiting Software-Induced Side-Channel Leakage of Kernel Hash Tables
-https://blackhat.com/asia-25/briefings/schedule/?__cf_chl_tk=R4T9IqSD8VM8V34HxZhJEJzougebUuLlpmqiurg4pvw-1743959629-1.0.1.1-ADqsjuxalwYHGb7KcN.QTl5vLXWphfzkN0JacPLQoJE#kernelsnitch-leaking-kernel-heap-pointers-by-exploiting-software-induced-side-channel-leakage-of-kernel-hash-tables-43247
-
-
-
-Radu Motspan & Mikhail Evdokimov & Polina Smirnova_Remote Exploitation of Nissan Leaf: Controlling Critical Body Elements from the Internet
-https://blackhat.com/asia-25/briefings/schedule/?__cf_chl_tk=R4T9IqSD8VM8V34HxZhJEJzougebUuLlpmqiurg4pvw-1743959629-1.0.1.1-ADqsjuxalwYHGb7KcN.QTl5vLXWphfzkN0JacPLQoJE#remote-exploitation-of-nissan-leaf-controlling-critical-body-elements-from-the-internet-44048
-
 
 Neil (Grifter) Wyler & Bart Stump_The Black Hat Asia Network Operations Center (NOC) Report
 https://blackhat.com/asia-25/briefings/schedule/?__cf_chl_tk=R4T9IqSD8VM8V34HxZhJEJzougebUuLlpmqiurg4pvw-1743959629-1.0.1.1-ADqsjuxalwYHGb7KcN.QTl5vLXWphfzkN0JacPLQoJE#the-black-hat-asia-network-operations-center-noc-report-44592
-
-
 
 
 
