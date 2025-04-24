@@ -46,9 +46,6 @@ Jess Nall_Skirting the Tornado: Essential Strategies for CISOs to Sidestep Gover
 https://www.blackhat.com/us-24/briefings/schedule/index.html#skirting-the-tornado-essential-strategies-for-cisos-to-sidestep-government-fallout-in-the-wake-of-major-cyberattacks-39055
 
 
-Bohan Liu & Zong Cao & Zheng Wang & Yeqi Fu & Cen Zhang_Achilles' Heel of JS Engines: Exploiting Modern Browsers During WASM Execution
-https://www.blackhat.com/us-24/briefings/schedule/index.html#achilles-heel-of-js-engines-exploiting-modern-browsers-during-wasm-execution-38540
-
 
 Hillai Ben-Sasson & Sagi Tzadik_Isolation or Hallucination? Hacking AI Infrastructure Providers for Fun and Weights
 https://www.blackhat.com/us-24/briefings/schedule/#isolation-or-hallucination-hacking-ai-infrastructure-providers-for-fun-and-weights-40569
