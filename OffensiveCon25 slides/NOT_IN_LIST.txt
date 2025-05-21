@@ -1,0 +1,27 @@
+Perri Adams_Automating Your Job? The Future of AI and Exploit Development
+
+Fish & Ling Hanqin_Skin in the Game: Survival of GPU IOMMU Irregular Damage
+
+Joernchen_Parser Differentials: When Interpretation Becomes a Vulnerability
+
+Cedric Halbronn & Jael Koh_Hunting for Overlooked Cookies in Windows 11 KTM and Baking Exploits for Them
+
+Seth Jenkins_Android In-The-Wild: Unexpectedly Excavating a Kernel Exploit
+
+Chariton Karamitas_KernelGP: Racing Against the Android Kernel
+
+Corentin Bayet & Bruno Pujos_Journey to Freedom: Escaping from VirtualBox
+
+Ken Gannon_Chainspotting 2: The Unofficial Sequel to the 2018 Talk “Chainspotting”
+
+Daniel Klischies & David Hirsch_No Signal, No Security: Dynamic Baseband Vulnerability Research
+
+Lukas Bernhard_Attacking Browsers via WebGPU
+
+Jeong Wook Oh& Rishika Hooda & Xuan Xing_Fighting Cavities: Securing Android Bluetooth by Red Teaming
+
+Angelboy_Frame by Frame, Kernel Streaming Keeps Giving Vulnerabilities
+
+Richard Abou Chaaya & John Stephenson_Garbage Collection in V8
+
+
