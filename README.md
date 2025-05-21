@@ -1,6 +1,8 @@
 # Conferences
 Conference presentation slides:
 
+- Offensivecon 2025 (May 16-17 Berlin)
+
 - Black Hat Asia 2025 (1-4 April 2025)
 
 - Black hat Europe 2024 (9-12 December 2024)
