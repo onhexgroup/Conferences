@@ -1,29 +1,9 @@
-Alon Leviev&Netanel Ben Simon&Yair Netzer&Amit Dori_BitUnlocker: Leveraging Windows Recovery to Extract BitLocker Secrets
-https://www.blackhat.com/us-25/briefings/schedule/index.html#bitunlocker-leveraging-windows-recovery-to-extract-bitlocker-secrets-45638
-
-
-Rebecca Lynch&Rich Harang_From Prompts to Pwns: Exploiting and Securing AI Agents
-https://www.blackhat.com/us-25/briefings/schedule/index.html#from-prompts-to-pwns-exploiting-and-securing-ai-agents-46681
-
-
 Philippe Laulheret_ReVault! Compromised by Your Secure SoC
 https://www.blackhat.com/us-25/briefings/schedule/index.html#revault-compromised-by-your-secure-soc-45899
 
 
-Marius Muench&Sam Collins&Tom Chothia_Watching the Watchers: Exploring and Testing Defenses of Anti-Cheat Systems
-https://www.blackhat.com/us-25/briefings/schedule/index.html#watching-the-watchers-exploring-and-testing-defenses-of-anti-cheat-systems-46777
-
-
-David Brauchler III_When Guardrails Aren't Enough: Reinventing Agentic AI Security With Architectural Controls
-https://www.blackhat.com/us-25/briefings/schedule/index.html#when-guardrails-arent-enough-reinventing-agentic-ai-security-with-architectural-controls-46112
-
-
 Gal Elbaz&Avi Lumelsky&Uri Katz_A Worm in the Apple - Wormable Zero-Click RCE in AirPlay Impacts Billions of Apple and IoT Devices
 https://www.blackhat.com/us-25/briefings/schedule/index.html#a-worm-in-the-apple---wormable-zero-click-rce-in-airplay-impacts-billions-of-apple-and-iot-devices-46617
-
-
-Kaixuan Luo&Xianbo Wang&Adonis Fung&Yanxiang Bi&Wing Cheong Lau_Back to the Future: Hacking and Securing Connection-based OAuth Architectures in Agentic AI and Integration Platforms
-https://www.blackhat.com/us-25/briefings/schedule/index.html#back-to-the-future-hacking-and-securing-connection-based-oauth-architectures-in-agentic-ai-and-integration-platforms-44686
 
 
 Andres Riancho&Hillai Ben-Sasson&Ronen Shustin_Breaking Out of The AI Cage: Pwning AI Providers with NVIDIA Vulnerabilities
@@ -46,21 +26,8 @@ Gary Marcus&Nathan Hamiel_Cybersecurity, AI, and Our Brains. A Fireside Chat wit
 https://www.blackhat.com/us-25/briefings/schedule/index.html#cybersecurity-ai-and-our-brains-a-fireside-chat-with-cognitive-scientist-and-ai-expert-gary-marcus-47637
 
 
-Xiaochen Wang&Yiping Liu&Xiaoman Wang&Cong Cheng_LLMDYara: LLMs-Driven Automated YARA Rules Generation with Explainable File Features and DNAHash
-https://www.blackhat.com/us-25/briefings/schedule/index.html#llmdyara-llms-driven-automated-yara-rules-generation-with-explainable-file-features-and-dnahash-46227
-
-
 Shahar Tal&Yarden Porat_Vaulted Severance: Your Secrets Are Now Outies
 https://www.blackhat.com/us-25/briefings/schedule/index.html#vaulted-severance-your-secrets-are-now-outies-46757
-
-
-
-Alex Kantchelian&Maarten van Dantzig&Diana Kramer_Autonomous Timeline Analysis and Threat Hunting: An AI Agent for Timesketch
-https://www.blackhat.com/us-25/briefings/schedule/index.html#autonomous-timeline-analysis-and-threat-hunting-an-ai-agent-for-timesketch-46667
-
-
-Altaf Shaik&Robert Jaschek_The 5G Titanic
-https://www.blackhat.com/us-25/briefings/schedule/index.html#the-5g-titanic-45976
 
 
 Michael Bargury&Tamir Ishay Sharbat_AI Enterprise Compromise - 0click Exploit Methods
@@ -71,10 +38,6 @@ Lukas Maar&Lukas Giner_Derandomizing the Location of Security-Critical Kernel Ob
 https://www.blackhat.com/us-25/briefings/schedule/index.html#derandomizing-the-location-of-security-critical-kernel-objects-in-the-linux-kernel-44902
 
 
-Andrew Brandt_Firewalls Under Fire: China's 5+ Year Campaign to Penetrate Perimeter Network Defenses
-https://www.blackhat.com/us-25/briefings/schedule/index.html#firewalls-under-fire-chinas-5-year-campaign-to-penetrate-perimeter-network-defenses-46097
-
-
 Valentina Palmiotti&Kymberlee Price&Chi-en (Ashley) Shen&Natalie Silvanovich&Vandana Verma_Hacking the Status Quo: Tales From Leading Women in Cybersecurity
 https://www.blackhat.com/us-25/briefings/schedule/index.html#hacking-the-status-quo-tales-from-leading-women-in-cybersecurity-47489
 
@@ -83,78 +46,16 @@ Ben Nassi&Or Yair&Stav Cohen_Invitation Is All You Need! Invoking Gemini for Wor
 https://www.blackhat.com/us-25/briefings/schedule/index.html#invitation-is-all-you-need-invoking-gemini-for-workspace-agents-with-a-simple-google-calendar-invite-46038
 
 
-Vedang Parasnis_Kernel-Enforced DNS Exfiltration Security: Framework Built for Cloud Environments to Stop Data Breaches via DNS at Scale
-https://www.blackhat.com/us-25/briefings/schedule/index.html#kernel-enforced-dns-exfiltration-security-framework-built-for-cloud-environments-to-stop-data-breaches-via-dns-at-scale-45566
-
-
-
-Ryan Barnett&Isabella Barnett_Lost in Translation: Exploiting Unicode Normalization
-https://www.blackhat.com/us-25/briefings/schedule/index.html#lost-in-translation-exploiting-unicode-normalization-44923
-
-
-Tom Tervoort_No VPN Needed? Cryptographic Attacks Against the OPC UA Protocol
-https://www.blackhat.com/us-25/briefings/schedule/index.html#no-vpn-needed-cryptographic-attacks-against-the-opc-ua-protocol-44760
-
-
 Jonathan Andersson&Thanos Kaliyanakis_Peril at the Plug: Investigating EV Charger Security and Safety Failures
 https://www.blackhat.com/us-25/briefings/schedule/index.html#peril-at-the-plug-investigating-ev-charger-security-and-safety-failures-45434
-
-
-
-Koh Nakagawa_XUnprotect: Reverse Engineering macOS XProtect Remediator
-https://www.blackhat.com/us-25/briefings/schedule/index.html#xunprotect-reverse-engineering-macos-xprotect-remediator-44791
-
-
-Brendan Dolan-Gavitt_AI Agents for Offsec with Zero False Positives
-https://www.blackhat.com/us-25/briefings/schedule/index.html#ai-agents-for-offsec-with-zero-false-positives-46559
-
-
-Garrett Foster_Clustered Points of Failure - Attacking Windows Server Failover Clusters
-https://www.blackhat.com/us-25/briefings/schedule/index.html#clustered-points-of-failure---attacking-windows-server-failover-clusters-44822
-
-
-
-Fengyu Liu&YouKun Shi&Tian Chen&Bocheng Xiang&Junyao He&Qi Li&Guangliang Yang&Yuan Zhang&Min Yang_Detecting Taint-Style Vulnerabilities in Microservice-Structured Web Applications
-https://www.blackhat.com/us-25/briefings/schedule/index.html#detecting-taint-style-vulnerabilities-in-microservice-structured-web-applications-46427
-
-
-Marco Casagrande&Daniele Antonioli_https://www.blackhat.com/us-25/briefings/schedule/index.html#e-trojans-ransomware-tracking-dos-and-data-leaks-on-xiaomi-electric-scooters-45822
-https://www.blackhat.com/us-25/briefings/schedule/index.html#e-trojans-ransomware-tracking-dos-and-data-leaks-on-xiaomi-electric-scooters-45822
-
-
-Adam Zabrocki&Marko Mitic_How to Secure Unique Ecosystem Shipping 1 Billion+ Cores?
-https://www.blackhat.com/us-25/briefings/schedule/index.html#how-to-secure-unique-ecosystem-shipping-1-billion-cores-46384
 
 
 David Mahdi&Ido Rozen_If Google Uses It to Find Webpages, We Can Use It to Find Fraudsters: TF-IDF for Real-Time Fraud Detection
 https://www.blackhat.com/us-25/briefings/schedule/index.html#if-google-uses-it-to-find-webpages-we-can-use-it-to-find-fraudsters-tf-idf-for-real-time-fraud-detection-46550
 
 
-Rama Hoetzlein_Protecting Small Organizations in the Era of AI Bots
-https://www.blackhat.com/us-25/briefings/schedule/index.html#protecting-small-organizations-in-the-era-of-ai-bots-45666
-
-
-
-Ali Ranjbar&Tianchang Yang&Kai Tu&Saaman Khalilollahi&Kanika Gupta&Syed Rafiul Hussain_Uncovering 'NASty' 5G Baseband Vulnerabilities through Dependency-Aware Fuzzing
-https://www.blackhat.com/us-25/briefings/schedule/index.html#uncovering-nasty-5g-baseband-vulnerabilities-through-dependency-aware-fuzzing-46485
-
-
-Colin Estep&Dagmawi Mulugeta_Your Traffic Doesn't Lie: Unmasking Supply Chain Attacks via Application Behaviour
-https://www.blackhat.com/us-25/briefings/schedule/index.html#your-traffic-doesnt-lie-unmasking-supply-chain-attacks-via-application-behaviour-45183
-
-
-
-Qibo Shi&Victor V&Wei Xiao&Zhiniang Peng_Diving into Windows HTTP: Unveiling Hidden Preauth Vulnerabilities in Windows HTTP Services (PRE-RECORDED)
-https://www.blackhat.com/us-25/briefings/schedule/index.html#diving-into-windows-http-unveiling-hidden-preauth-vulnerabilities-in-windows-http-services-pre-recorded-44873
-
-
 Ben D. Sawyer&Matthew Canham_Evil Digital Twin, Too: The First 30 Months of Psychological Manipulation of Humans by AI
 https://www.blackhat.com/us-25/briefings/schedule/index.html#evil-digital-twin-too-the-first-30-months-of-psychological-manipulation-of-humans-by-ai-46865
-
-
-
-Alex Kantchelian&Ryan Stevens&Yanis Pavlidis&Sadegh Momeni&Casper Neo&Birkett Huber&Elie Bursztein_FACADE: High-Precision Insider Threat Detection Using Contrastive Learning
-https://www.blackhat.com/us-25/briefings/schedule/index.html#facade-high-precision-insider-threat-detection-using-contrastive-learning-46751
 
 
 Nathan Hamiel&Nils Amiet_Hack to the Future: Owning AI-Powered Tools with Old School Vulns
@@ -166,76 +67,16 @@ Carlo Meijer&Wouter Bokslag&Jos Wetzels_2 Cops 2 Broadcasting: TETRA End-To-End 
 https://www.blackhat.com/us-25/briefings/schedule/index.html#2-cops-2-broadcasting-tetra-end-to-end-under-scrutiny-46143
 
 
-Ben Gelman&Sean Bergeron_Anomaly Detection Betrayed Us, so We Gave It a New Job: Enhancing Command Line Classification with Benign Anomalous Data
-https://www.blackhat.com/us-25/briefings/schedule/index.html#anomaly-detection-betrayed-us-so-we-gave-it-a-new-job-enhancing-command-line-classification-with-benign-anomalous-data-46769
-
-
-Vaisha Bernard_Consent & Compromise: Abusing Entra OAuth for Fun and Access to Internal Microsoft Applications
-https://www.blackhat.com/us-25/briefings/schedule/index.html#consent--compromise-abusing-entra-oauth-for-fun-and-access-to-internal-microsoft-applications-45128
-
-
-Ibrahim El-sayed_Decoding Signal: Understanding the Real Privacy Guarantees of E2EE
-https://www.blackhat.com/us-25/briefings/schedule/index.html#decoding-signal-understanding-the-real-privacy-guarantees-of-e2ee-45355
-
-
-
 Sid Rao&Gabriela Sonkeri&Amel Bourdoucen&Janne Lindqvist_Lost & Found: The Hidden Risks of Account Recovery in a Passwordless Future
 https://www.blackhat.com/us-25/briefings/schedule/index.html#lost--found-the-hidden-risks-of-account-recovery-in-a-passwordless-future-46431
-
-
-
-
-Yuan Luo&Zhaojun Chen&Yi Sun&Rhettxie Rhettxie_More Flows, More Bugs: Empowering SAST with LLMs and Customized DFA
-https://www.blackhat.com/us-25/briefings/schedule/index.html#more-flows-more-bugs-empowering-sast-with-llms-and-customized-dfa-45259
-
-
-
-Kyle Avery_Training Specialist Models: Automating Malware Development
-https://www.blackhat.com/us-25/briefings/schedule/index.html#training-specialist-models-automating-malware-development-46238
-
- 
-Alex Bourla&Graham Brereton_Turning the Tables on GlobalProtect: Use and Abuse of Palo Alto's Remote Access Solution 
-https://www.blackhat.com/us-25/briefings/schedule/index.html#turning-the-tables-on-globalprotect-use-and-abuse-of-palo-altos-remote-access-solution-46051
 
 
 Qinrun Dai&Yifei Xie_BinWhisper: LLM-Driven Reasoning for Automated Vulnerability Discovery Behind Hall-of-Fame
 https://www.blackhat.com/us-25/briefings/schedule/index.html#binwhisper-llm-driven-reasoning-for-automated-vulnerability-discovery-behind-hall-of-fame-46269
 
 
-
-Pinji Chen&Jianjun Chen&Qi Wang&Mingming Zhang&Haixin Duan_Cross-Origin Web Attacks via HTTP/2 Server Push and Signed HTTP Exchange
-https://www.blackhat.com/us-25/briefings/schedule/index.html#cross-origin-web-attacks-via-http2-server-push-and-signed-http-exchange-45150
-
-
-
-Bela Genge&Ioan Padurean&Dan Macovei_Exploiting DNS for Stealthy User Tracking
-https://www.blackhat.com/us-25/briefings/schedule/index.html#exploiting-dns-for-stealthy-user-tracking-46620
-
-
-
 Zong Cao&Zhengzi Xu&Yeqi Fu&Yuqiang Sun&Kaixuan Li&Yang Liu_Let LLM Learn: When Your Static Analyzer Actually 'Gets It'
 https://www.blackhat.com/us-25/briefings/schedule/index.html#let-llm-learn-when-your-static-analyzer-actually-gets-it-46444
-
-
-
-Tianchang Yang&Kai Tu&Syed Md Mukit Rashid&Ali Ranjbar&Gang Tan&Syed Rafiul Hussain_Open RAN, Open Risk: Uncovering Threats and Exposing Vulnerabilities in Next-Gen Cellular RAN
-https://www.blackhat.com/us-25/briefings/schedule/index.html#open-ran-open-risk-uncovering-threats-and-exposing-vulnerabilities-in-next-gen-cellular-ran-46100
-
-
-
-Sandro Rüegge&Johannes Wikner_Racing for Privilege: Leaking Privileged Memory From Any Intel System Using a Microarchitectural Race Condition
-https://www.blackhat.com/us-25/briefings/schedule/index.html#racing-for-privilege-leaking-privileged-memory-from-any-intel-system-using-a-microarchitectural-race-condition-45260
-
-
-
-Salvatore Gariuolo_Smart Charging, Smarter Hackers: The Unseen Risks of ISO 15118
-https://www.blackhat.com/us-25/briefings/schedule/index.html#smart-charging-smarter-hackers-the-unseen-risks-of-iso-15118-45792
-
-
-
-Tod Beardsley_Vulnerability Haruspicy: Picking Out Risk Signals from Scoring System Entrails
-https://www.blackhat.com/us-25/briefings/schedule/index.html#vulnerability-haruspicy-picking-out-risk-signals-from-scoring-system-entrails-46326
-
 
 
 Thomas 'stacksmashing' Roth_Watch Your (Lock)Step: Glitching into Automotive Processors
@@ -246,43 +87,21 @@ SttyK SttyK_Behind the Screen: Unmasking North Korean IT Workers' Operations and
 https://www.blackhat.com/us-25/briefings/schedule/index.html#behind-the-screen-unmasking-north-korean-it-workers-operations-and-infrastructure-45180
 
 
-Marcos Bajo&Christian Rossow_Coroutine Frame-Oriented Programming: Breaking Control Flow Integrity by Abusing Modern C++
-https://www.blackhat.com/us-25/briefings/schedule/index.html#coroutine-frame-oriented-programming-breaking-control-flow-integrity-by-abusing-modern-c-45928
-
-
-
 Tien-Chih Lin&Wei Chieh Chao&Zhao-Min Chen_Pay Attention to the Clue: Clue-Driven Reverse Engineering by LLM in Real-World Malware Analysis
 https://www.blackhat.com/us-25/briefings/schedule/index.html#pay-attention-to-the-clue-clue-driven-reverse-engineering-by-llm-in-real-world-malware-analysis-45887
-
-
-Neophytos Christou&Andreas Kellas_QUACK: Hindering Deserialization Attacks via Static Duck Typing
-https://www.blackhat.com/us-25/briefings/schedule/index.html#quack-hindering-deserialization-attacks-via-static-duck-typing-44934
-
-
-
-Ji'an Zhou&Li'shuo Song_Safe Harbor or Hostile Waters: Unveiling the Hidden Perils of the TorchScript Engine in PyTorch (PRE-RECORDED)
-https://www.blackhat.com/us-25/briefings/schedule/index.html#safe-harbor-or-hostile-waters-unveiling-the-hidden-perils-of-the-torchscript-engine-in-pytorch-pre-recorded-44682
-
 
 
 Chris Butera&Bob Costello&Frank Cilluffo_Securing America: Readiness, Response, and Resilience for Critical Infrastructure Defense
 https://www.blackhat.com/us-25/briefings/schedule/index.html#securing-america-readiness-response-and-resilience-for-critical-infrastructure-defense-48633
 
 
-
 Neil (Grifter) Wyler&Bart Stump_The 11th Annual Black Hat USA Network Operations Center (NOC) Report
 https://www.blackhat.com/us-25/briefings/schedule/index.html#the-11th-annual-black-hat-usa-network-operations-center-noc-report-47642
 
 
-Deral Heiland&Carlota Bindner_Weaponization of Cellular Based IoT Technology – Leveraging Smart Devices to Gain a Foothold
-https://www.blackhat.com/us-25/briefings/schedule/index.html#weaponization-of-cellular-based-iot-technology--leveraging-smart-devices-to-gain-a-foothold-45837
-
 
 Hariharan Shanmugam_Weaponizing Apple AI for Offensive Operations
 https://www.blackhat.com/us-25/briefings/schedule/index.html#weaponizing-apple-ai-for-offensive-operations-44700
-
-
-
 
 
 
