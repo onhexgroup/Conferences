@@ -6,10 +6,6 @@ Gal Elbaz&Avi Lumelsky&Uri Katz_A Worm in the Apple - Wormable Zero-Click RCE in
 https://www.blackhat.com/us-25/briefings/schedule/index.html#a-worm-in-the-apple---wormable-zero-click-rce-in-airplay-impacts-billions-of-apple-and-iot-devices-46617
 
 
-Andres Riancho&Hillai Ben-Sasson&Ronen Shustin_Breaking Out of The AI Cage: Pwning AI Providers with NVIDIA Vulnerabilities
-https://www.blackhat.com/us-25/briefings/schedule/index.html#breaking-out-of-the-ai-cage-pwning-ai-providers-with-nvidia-vulnerabilities-46498
-
-
 Richard Seiersen_Main Stage: IS YOUR CTEM MONEY-MINDED? Unveiling A New Approach to Cyber Risk Management: Moving from Attack Surface Management to Risk Surface Management
 https://www.blackhat.com/us-25/briefings/schedule/index.html#main-stage-is-your-ctem-money-minded-unveiling-a-new-approach-to-cyber-risk-management-moving-from-attack-surface-management-to-risk-surface-management-48356
 
@@ -34,10 +30,6 @@ Michael Bargury&Tamir Ishay Sharbat_AI Enterprise Compromise - 0click Exploit Me
 https://www.blackhat.com/us-25/briefings/schedule/index.html#ai-enterprise-compromise---0click-exploit-methods-46442
 
 
-Lukas Maar&Lukas Giner_Derandomizing the Location of Security-Critical Kernel Objects in the Linux Kernel
-https://www.blackhat.com/us-25/briefings/schedule/index.html#derandomizing-the-location-of-security-critical-kernel-objects-in-the-linux-kernel-44902
-
-
 Valentina Palmiotti&Kymberlee Price&Chi-en (Ashley) Shen&Natalie Silvanovich&Vandana Verma_Hacking the Status Quo: Tales From Leading Women in Cybersecurity
 https://www.blackhat.com/us-25/briefings/schedule/index.html#hacking-the-status-quo-tales-from-leading-women-in-cybersecurity-47489
 
@@ -54,25 +46,12 @@ David Mahdi&Ido Rozen_If Google Uses It to Find Webpages, We Can Use It to Find 
 https://www.blackhat.com/us-25/briefings/schedule/index.html#if-google-uses-it-to-find-webpages-we-can-use-it-to-find-fraudsters-tf-idf-for-real-time-fraud-detection-46550
 
 
-Ben D. Sawyer&Matthew Canham_Evil Digital Twin, Too: The First 30 Months of Psychological Manipulation of Humans by AI
-https://www.blackhat.com/us-25/briefings/schedule/index.html#evil-digital-twin-too-the-first-30-months-of-psychological-manipulation-of-humans-by-ai-46865
-
-
 Nathan Hamiel&Nils Amiet_Hack to the Future: Owning AI-Powered Tools with Old School Vulns
 https://www.blackhat.com/us-25/briefings/schedule/index.html#hack-to-the-future-owning-ai-powered-tools-with-old-school-vulns-45871
 
 
-
 Carlo Meijer&Wouter Bokslag&Jos Wetzels_2 Cops 2 Broadcasting: TETRA End-To-End Under Scrutiny
 https://www.blackhat.com/us-25/briefings/schedule/index.html#2-cops-2-broadcasting-tetra-end-to-end-under-scrutiny-46143
-
-
-Sid Rao&Gabriela Sonkeri&Amel Bourdoucen&Janne Lindqvist_Lost & Found: The Hidden Risks of Account Recovery in a Passwordless Future
-https://www.blackhat.com/us-25/briefings/schedule/index.html#lost--found-the-hidden-risks-of-account-recovery-in-a-passwordless-future-46431
-
-
-Qinrun Dai&Yifei Xie_BinWhisper: LLM-Driven Reasoning for Automated Vulnerability Discovery Behind Hall-of-Fame
-https://www.blackhat.com/us-25/briefings/schedule/index.html#binwhisper-llm-driven-reasoning-for-automated-vulnerability-discovery-behind-hall-of-fame-46269
 
 
 Zong Cao&Zhengzi Xu&Yeqi Fu&Yuqiang Sun&Kaixuan Li&Yang Liu_Let LLM Learn: When Your Static Analyzer Actually 'Gets It'
@@ -97,7 +76,6 @@ https://www.blackhat.com/us-25/briefings/schedule/index.html#securing-america-re
 
 Neil (Grifter) Wyler&Bart Stump_The 11th Annual Black Hat USA Network Operations Center (NOC) Report
 https://www.blackhat.com/us-25/briefings/schedule/index.html#the-11th-annual-black-hat-usa-network-operations-center-noc-report-47642
-
 
 
 Hariharan Shanmugam_Weaponizing Apple AI for Offensive Operations
