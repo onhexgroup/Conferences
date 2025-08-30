@@ -14,10 +14,6 @@ Snehal Antani&Bailey Bickley_Main Stage: Proof, Not Promises: Redefining Cyberse
 https://www.blackhat.com/us-25/briefings/schedule/index.html#main-stage-proof-not-promises-redefining-cybersecurity-for-the-defense-industrial-base-47177
 
 
-Yu Wang&Weiteng Chen_"Dead Pixel Detected" - A Security Assessment of Apple's Graphics Subsystem
-https://www.blackhat.com/us-25/briefings/schedule/index.html#dead-pixel-detected---a-security-assessment-of-apples-graphics-subsystem-45392
-
-
 Gary Marcus&Nathan Hamiel_Cybersecurity, AI, and Our Brains. A Fireside Chat with Cognitive Scientist and AI Expert Gary Marcus
 https://www.blackhat.com/us-25/briefings/schedule/index.html#cybersecurity-ai-and-our-brains-a-fireside-chat-with-cognitive-scientist-and-ai-expert-gary-marcus-47637
 
@@ -80,6 +76,7 @@ https://www.blackhat.com/us-25/briefings/schedule/index.html#the-11th-annual-bla
 
 Hariharan Shanmugam_Weaponizing Apple AI for Offensive Operations
 https://www.blackhat.com/us-25/briefings/schedule/index.html#weaponizing-apple-ai-for-offensive-operations-44700
+
 
 
 
