@@ -62,9 +62,6 @@ SttyK SttyK_Behind the Screen: Unmasking North Korean IT Workers' Operations and
 https://www.blackhat.com/us-25/briefings/schedule/index.html#behind-the-screen-unmasking-north-korean-it-workers-operations-and-infrastructure-45180
 
 
-Tien-Chih Lin&Wei Chieh Chao&Zhao-Min Chen_Pay Attention to the Clue: Clue-Driven Reverse Engineering by LLM in Real-World Malware Analysis
-https://www.blackhat.com/us-25/briefings/schedule/index.html#pay-attention-to-the-clue-clue-driven-reverse-engineering-by-llm-in-real-world-malware-analysis-45887
-
 
 Chris Butera&Bob Costello&Frank Cilluffo_Securing America: Readiness, Response, and Resilience for Critical Infrastructure Defense
 https://www.blackhat.com/us-25/briefings/schedule/index.html#securing-america-readiness-response-and-resilience-for-critical-infrastructure-defense-48633
@@ -76,6 +73,7 @@ https://www.blackhat.com/us-25/briefings/schedule/index.html#the-11th-annual-bla
 
 Hariharan Shanmugam_Weaponizing Apple AI for Offensive Operations
 https://www.blackhat.com/us-25/briefings/schedule/index.html#weaponizing-apple-ai-for-offensive-operations-44700
+
 
 
 
